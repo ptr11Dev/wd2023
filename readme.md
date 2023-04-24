@@ -9,8 +9,8 @@ We'd like to ask you to create a contact section out of provided and existing co
 
 Below, you'll find a brief overview of the task, which consists of the following steps:
 
-1. **Clone and Set Up the Repository:** 
-Please clone this repository: `git clone git@bitbucket.org:workzit/webdev2023.git` and set up the project locally using `yarn` or `npm install`. (If you are reading this, then you most likely have already finished this step :))
+1. **Clone and Set Up the Repository:**
+Please clone this repository: `git clone https://github.com/pw-bold/webDev2023.git` and set up the project locally using `yarn` or `npm install`. (If you are reading this, then you most likely have already finished this step :))
 
 Little background: This is not yet a fully functional webpage. It is only ready for desktop view as of now, the code is a mess, and there are even some visual bugs. You are joining this project as a new developer, and are given some introductory tasks. 
 
