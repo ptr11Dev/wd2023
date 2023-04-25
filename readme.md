@@ -27,9 +27,7 @@ Develop a new button component from scratch, and replace all instances where it 
 4. **General Review:**
 While working on the tasks above, take some time to explore the repository and assess its structure and implementation. Yes, we know - it's a mess :) However, please refrain from fixing anything else or making changes outside of the two tasks mentioned; but be prepared to discuss your observations and any potential improvements during the next stage of the recruitment process if you are selected.
 
-Once you have completed the tasks, please submit your work, by one of the following:
- - just zip it and send it as an attachment to an email (but PLEASE, do not include `node_modules` :))
- - push it to a git repository of your choice and send us a link.
+Once you have completed the tasks, please submit your work, by commiting & pushing it to a git repository of your choice and sending us a link. (hint: you might want to just fork our repo and work on your own copy, if you have github account of course). Remember to set repo visibility to "public"!
 
 Please do not try to push to the source repository, it won't work.
 
