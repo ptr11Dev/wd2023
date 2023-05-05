@@ -2,7 +2,7 @@ import Image from '../image'
 import Heading from '../heading';
 import Text from '../text';
 import './index.css'
-
+import Button from '../button/button';
 
 const ImageCard = ({image, heading, text, link}) => {
   return (
@@ -11,7 +11,11 @@ const ImageCard = ({image, heading, text, link}) => {
       <div className='imageCard__content'>
         <Heading level={3}>{heading}</Heading>
         <Text className="imageCard__text"> {text} </Text>
-        <a href={link} className='imageCard__link'>Read More</a>
+        <Button colorType="inverted" style={{ border: 'none' }} small>
+          <a href={link} style={{ color: 'inherit' }}>
+            Read More
+          </a>
+        </Button>
       </div>
     </div>
   )
