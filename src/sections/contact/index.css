@@ -1,3 +1,28 @@
 .contact {
-  height: 30rem;
+  height: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-around;
+
+  & .contact__form {
+    height: 60%;
+    width: 540px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+
+    & input {
+      margin: 0;
+    }
+  }
+
+  & .contact__content {
+    width: 30%;
+
+    & .contact__text {
+      margin-top: 50px;
+    }
+  }
 }
