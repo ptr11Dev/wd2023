@@ -18,8 +18,12 @@
     right: 50%;
     transform: translateX(50%);
     border-radius: .8rem;
-    padding: 3.3rem 3.2rem;
+    padding: 2rem;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    flex-wrap: wrap;
 
     & p {
       margin-top: 2rem;
